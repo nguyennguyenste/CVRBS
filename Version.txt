@@ -1,1 +1,1 @@
-{"Version":"1.2.4","IMEI":"All"}
+{"Version":"1.2.4","IMEI":"All","VersionRBT_ESP":"1.2.3","IDRBT_ESP":"All"}
