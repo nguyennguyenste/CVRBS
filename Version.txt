@@ -1,1 +1,1 @@
-{"Version":"1.2.4","IMEI":"All"}
+{"VersionRBS_AEX":"1.2.6","RBS_AEX_IMEI":"All","VersionRBT_ESP_SENSOR":"1.2.4","RBT_ESP_SENSOR_ID":"All","VersionRBT_AEX_SENSOR":"1.2.4","RBT_AEX_SENSOR_IMEI":"All"}
