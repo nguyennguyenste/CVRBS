@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"VersionRBS_AEX":"1.2.6","RBS_AEX_IMEI":"All","VersionRBT_ESP_SENSOR":"1.2.4","RBT_ESP_SENSOR_ID":"All","VersionRBT_AEX_SENSOR":"1.2.4","RBT_AEX_SENSOR_IMEI":"All"}
+=======
+{"VersionRBS_AEX":"1.2.6","RBS_AEX_IMEI":"All","VersionRBT_ESP_SENSOR":"1.2.4","RBT_ESP_SENSOR_ID":"All","VersionRBT_AEX_SENSOR":"1.2.4","RBT_AEX_SENSOR_IMEI":"All"}
+>>>>>>> f7c96380ce539c6993e459a4511f5d89b7885150
