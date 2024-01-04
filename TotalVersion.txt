@@ -1,1 +1,1 @@
-{"VersionEBX":"231216.0011","EBX_ID":"All"}
+{"VersionEBX":"24JA04","EBX_ID":"All"}
